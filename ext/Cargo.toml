@@ -1,5 +1,5 @@
 [package]
-name = "flex"
+name = "ext"
 version = "0.1.0"
 authors = ["Simon Tharby <jinjamail@gmail.com>"]
 edition = "2018"
@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 druid = "0.6.0"
+instant = "0.1.9"
